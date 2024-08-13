@@ -61,22 +61,22 @@ Here is an example of a comic created using the DynamicGraphComics tool:
 项目路线图 / Project Roadmap
 ---------------
 
-## 1. 数据转换 / Data Transformation
+### 1. 数据转换 / Data Transformation
 
 将数据转化为按时间线聚类的新数据格式。
 Transform the data into a new format clustered by timeline.
 
-## 2. 故事板排布 / Storyboard Arrangement
+### 2. 故事板排布 / Storyboard Arrangement
 
 将时间线数据排布到故事板上。
 Arrange the timeline data on the storyboard.
 
-## 3. 编辑器定制 / Editor Customization
+### 3. 编辑器定制 / Editor Customization
 
 找一个开源的故事板编辑器并进行定制修改。
 Find an open-source storyboard editor and customize it.
 
-## 4. 功能增强 / Feature Enhancement
+### 4. 功能增强 / Feature Enhancement
 
 确保故事板支持可视化图表和子元素的编辑与添加功能。
 Ensure the storyboard supports visual charts and the editing/adding of sub-elements.
